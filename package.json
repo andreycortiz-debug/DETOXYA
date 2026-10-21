@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "description": "DETOXYA — compañero open-source y local-first de desintoxicación y recuperación (PWA)",
   "license": "AGPL-3.0-or-later",
   "scripts": {
