@@ -1,0 +1,21 @@
+{
+  "subtitle": "Tus datos, en gráficos claros. Sin nube: todo sale de este dispositivo.",
+  "statsClean": "Días limpios",
+  "statsUrges": "Antojos superados",
+  "statsSaved": "Ahorrado (estimado)",
+  "statsReviews": "Revisiones",
+  "heatmapTitle": "Últimos 30 días",
+  "heatmapHint": "Cada cuadro es un día; los intensos son días con antojos registrados.",
+  "intensityTitle": "Intensidad antes/después",
+  "intensityBefore": "Antes",
+  "intensityAfter": "Después",
+  "intensityHint": "Cada punto es un antojo registrado: bajó de nivel.",
+  "haltTitle": "Patrón HALT (14 días)",
+  "haltHint": "Media de cada dimensión en tus comprobaciones.",
+  "triggersTitle": "Disparadores más frecuentes",
+  "noData": "Aún no hay suficientes datos: registra antojos y comprobaciones HALT para ver gráficos.",
+  "emptyTriggers": "Sin disparadores registrados en antojos.",
+  "savingsTotal": "Total desde tu primera meta",
+  "day": "día",
+  "days": "días"
+}

@@ -1,0 +1,42 @@
+{
+  "appName": "DETOXYA",
+  "tagline": "Local-first detox & recovery companion",
+  "loading": "Loading…",
+  "disclaimerShort": "Not medical care and not a substitute for a professional. In an emergency call 911 or your local number.",
+  "actions": {
+    "continue": "Continue",
+    "back": "Back",
+    "cancel": "Cancel",
+    "save": "Save",
+    "done": "Done",
+    "skip": "Skip",
+    "retry": "Try again",
+    "edit": "Edit",
+    "delete": "Delete",
+    "close": "Close",
+    "seeAll": "See all"
+  },
+  "time": {
+    "daysHours": "{{days}} d {{hours}} h",
+    "hoursMinutes": "{{hours}} h {{minutes}} min",
+    "minutes": "{{minutes}} min",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "day": "day",
+    "days": "days",
+    "hour": "hour",
+    "hours": "hours",
+    "minute": "minute",
+    "minutesWord": "minutes",
+    "second": "second",
+    "seconds": "seconds"
+  },
+  "empty": {
+    "nothingYet": "Nothing here yet",
+    "checkBack": "Check back soon."
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "notFound": "Page not found."
+  }
+}

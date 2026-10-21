@@ -1,0 +1,21 @@
+{
+  "subtitle": "Escribe para ti. Todo se queda en este dispositivo.",
+  "tab_write": "Escribir",
+  "tab_thought": "Pensamiento",
+  "tab_list": "Entradas",
+  "useFree": "Cambiar a escritura libre",
+  "usePrompt": "Usar la pregunta del día",
+  "entryLabel": "Tu entrada",
+  "save": "Guardar entrada",
+  "saveThought": "Guardar registro",
+  "saved": "¡Guardado!",
+  "empty": "Aún no hay entradas.",
+  "thoughtIntro": "Registra un pensamiento difícil: situación → pensamiento → emoción → evidencia → reencuadre.",
+  "field_situation": "Situación (qué pasó, dónde, cuándo)",
+  "field_thought": "Pensamiento automático",
+  "field_emotion": "Emoción e intensidad (0-10)",
+  "field_evidenceFor": "Evidencia a favor del pensamiento",
+  "field_evidenceAgainst": "Evidencia en contra",
+  "field_reframe": "Reencuadre creíble",
+  "confirmDelete": "¿Borrar esta entrada? No se puede deshacer."
+}

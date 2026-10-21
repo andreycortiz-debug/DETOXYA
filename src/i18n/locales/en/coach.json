@@ -1,0 +1,20 @@
+{
+  "title": "Coach",
+  "subtitle": "Immediate support. This is local AI: not a therapist, not medical care.",
+  "disclaimer": "Local AI guide. It does not diagnose or treat. In crisis, use SOS.",
+  "empty": "Tell me what's going on right now. Or tap a suggestion.",
+  "placeholder": "Write here…",
+  "send": "Send",
+  "thinking": "Thinking…",
+  "source_rules": "Local engine (no AI)",
+  "source_ollama": "Local AI · {{model}}",
+  "source_crisis": "Crisis protocol",
+  "source_medical": "Medical referral",
+  "quick_craving": "I have a craving",
+  "quick_slip": "I relapsed, now what?",
+  "quick_motivation": "I can't find motivation",
+  "quick_sleep": "I can't sleep well",
+  "quick_mood": "I feel bad",
+  "clear": "Clear conversation",
+  "offline_notice": "Offline: the local coach still works."
+}

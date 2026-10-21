@@ -1,0 +1,41 @@
+{
+  "notMedical": {
+    "title": "This is not medical care",
+    "body": "DETOXYA is a wellness and education tool. It does not diagnose, does not treat, and does not replace doctors, therapists or emergency services. We never give doses or taper schedules. If you are at risk, seek professional medical care.",
+    "short": "DETOXYA is not medical care and does not replace a professional."
+  },
+  "screeningDisclaimer": "These questionnaires are for orientation, not diagnosis. Only you and a health professional can interpret them rigorously. Your answers never leave this device.",
+  "taperNotice": "We do not give taper schedules: cutting down alcohol or benzodiazepines on your own can be dangerous. Always do it under medical supervision.",
+  "crisis": {
+    "title": "Immediate help",
+    "body": "If you are in danger or thinking of hurting yourself, the most important thing right now is to talk to a human. Call emergency services or a crisis line. You do not have to go through this alone.",
+    "close": "Close",
+    "callEmergency": "Call {{number}} (emergency)",
+    "findLine": "Find a helpline in my country",
+    "step1": "Get safe: move away from anything you could use to hurt yourself.",
+    "step2": "Call or text someone: emergency services, a crisis line, or a trusted person.",
+    "step3": "Do not stay alone: stay with another person if you can.",
+    "step4": "If you feel an immediate urge, go to the ER or call your country's emergency number.",
+    "dismiss": "I understand, continue in the app",
+    "ack": "I have contacted (or will contact right now) human help.",
+    "urgentTitle": "Possible overdose: call emergency now",
+    "urgentBody": "If you took too much, mixed substances, or someone is unconscious or not breathing, this is a medical emergency. Call 911/112 (or your country emergency number) right away. Do not wait for it to pass on its own."
+  },
+  "medicalGate": {
+    "title": "Withdrawal risk: medical care needed",
+    "body": "Stopping alcohol or benzodiazepines abruptly can cause seizures, delirium and even death. If you use daily, have had seizures when stopping, are over 65, pregnant, have a serious illness, or use other substances, you need medical evaluation before stopping.",
+    "sign1": "Daily use of alcohol or benzodiazepines.",
+    "sign2": "Seizures or delirium in previous withdrawals.",
+    "sign3": "Tremor, sweating or intense anxiety when you do not use.",
+    "ack": "I understand that I should seek medical care before stopping, and that this app does not supervise my withdrawal."
+  },
+  "opioidGate": {
+    "title": "Opioids: harm reduction",
+    "body": "Opioid withdrawal is rarely fatal by itself, but lost tolerance after quitting multiplies overdose risk if you use again. Medication for opioid use (methadone, buprenorphine, naltrexone) is the standard of care: seek a professional.",
+    "point1": "Keep naloxone (Narcan) at hand and teach someone close how to use it.",
+    "point2": "Never use alone: tell someone or use a supervised-use service.",
+    "point3": "Do not mix opioids with alcohol or benzodiazepines.",
+    "point4": "After a period without use, your tolerance is lower: a previous dose can kill.",
+    "ack": "I understand the harm-reduction steps and will seek professional help (MOUD) if possible."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Coach",
+  "subtitle": "Apoyo inmediato. Es IA local: no es terapeuta, no es atención médica.",
+  "disclaimer": "Guía de IA local. No diagnostica ni da tratamiento. En crisis, usa SOS.",
+  "empty": "Cuéntame qué está pasando ahora. También puedes tocar una sugerencia.",
+  "placeholder": "Escribe aquí…",
+  "send": "Enviar",
+  "thinking": "Pensando…",
+  "source_rules": "Motor local (sin IA)",
+  "source_ollama": "IA local · {{model}}",
+  "source_crisis": "Protocolo de crisis",
+  "source_medical": "Derivación médica",
+  "quick_craving": "Tengo un antojo",
+  "quick_slip": "He recaído, ¿y ahora?",
+  "quick_motivation": "No encuentro motivación",
+  "quick_sleep": "No duermo bien",
+  "quick_mood": "Me siento mal",
+  "clear": "Borrar conversación",
+  "offline_notice": "Sin conexión: el coach local sigue funcionando."
+}

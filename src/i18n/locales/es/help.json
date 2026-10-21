@@ -1,0 +1,16 @@
+{
+  "title": "Ayuda y seguridad",
+  "intro": "Si estás en peligro, usa estos números ahora. DETOXYA no es un sustituto de los servicios de emergencias.",
+  "inCrisisCta": "Estoy en crisis ahora mismo",
+  "callEmergency": "Llamar al {{number}} (emergencias)",
+  "linesTitle": "Líneas de crisis y apoyo",
+  "harmTitle": "Reducir daños salva vidas",
+  "harm1": "Nunca uses solo/a: avisa a alguien o usa un servicio de acompañamiento.",
+  "harm2": "No mezcles opioides con alcohol ni benzodiacepinas: la combinación mata por parada respiratoria.",
+  "harm3": "Ten naloxona a mano si usas opioides y enseña a alguien cercano a usarla.",
+  "harm4": "Tras un periodo sin consumir, tu tolerancia baja: una dosis previa puede ser letal.",
+  "harm5": "Si consumes, prueba primero una cantidad menor de lo habitual, especialmente tras una tregua.",
+  "notAloneTitle": "No estás solo/a",
+  "notAloneBody": "Miles de personas atraviesan lo mismo que tú. Pedir ayuda — a una línea, a un médico, a un amigo — es un acto de valentía, no de debilidad.",
+  "medicalNote": "Si bebes alcohol o tomas benzodiacepinas a diario, deja de consumir solo bajo supervisión médica: la retirada súbita puede provocar convulsiones."
+}

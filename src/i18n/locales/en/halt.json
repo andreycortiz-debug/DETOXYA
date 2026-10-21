@@ -1,0 +1,22 @@
+{
+  "title": "HALT check-in",
+  "subtitle": "Hungry, angry, lonely, tired: meet the need before the craving grows.",
+  "hunger": "Hunger / thirst",
+  "anger": "Anger / frustration",
+  "loneliness": "Loneliness / disconnection",
+  "tiredness": "Tiredness / sleep",
+  "craving": "Craving",
+  "save": "Save check-in",
+  "saved": "Saved!",
+  "actionsTitle": "What to do now",
+  "actionsBody": "We detected high needs. Meet them first: the craving usually drops.",
+  "actionHunger": "Eat something with protein and drink a glass of water. Hunger mimics craving.",
+  "actionAnger": "Breathe for two minutes and write down unfiltered what you feel. Unspent anger looks for an exit.",
+  "actionLoneliness": "Text or call someone. You don't have to talk about use: talk about anything.",
+  "actionTiredness": "Rest 15 minutes or go to bed earlier today. Tiredness multiplies cravings.",
+  "surfCta": "Open urge surfing",
+  "patternTitle": "Your pattern (7 days)",
+  "patternBody": "Averages from your last {{count}} check-ins. Look at the tallest bar.",
+  "footer": "HALT comes from recovery tradition: a fast map of what your body and life need.",
+  "safetyNote": "If you feel like hurting yourself or disappearing, you are not alone: get help now."
+}

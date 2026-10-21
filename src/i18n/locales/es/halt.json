@@ -1,0 +1,22 @@
+{
+  "title": "Check-in HALT",
+  "subtitle": "Hambre, ira, soledad, cansancio: atiende la necesidad antes de que el antojo crezca.",
+  "hunger": "Hambre / sed",
+  "anger": "Ira / frustración",
+  "loneliness": "Soledad / desconexión",
+  "tiredness": "Cansancio / sueño",
+  "craving": "Antojo",
+  "save": "Guardar check-in",
+  "saved": "¡Guardado!",
+  "actionsTitle": "Qué hacer ahora",
+  "actionsBody": "Detectamos necesidades altas. Atiéndolas primero: el antojo suele bajar.",
+  "actionHunger": "Come algo con proteína y bebe un vaso de agua. El hambre imita el antojo.",
+  "actionAnger": "Respira dos minutos y escribe sin filtro lo que sientes. La ira no consumida busca salida.",
+  "actionLoneliness": "Escribe o llama a alguien. No tienes que hablar de consumo: habla de cualquier cosa.",
+  "actionTiredness": "Descansa 15 minutos o acuesta antes hoy. El cansancio multiplica el antojo.",
+  "surfCta": "Abrir surf del antojo",
+  "patternTitle": "Tu patrón (7 días)",
+  "patternBody": "Promedios de tus últimos {{count}} check-ins. Fíjate en la barra más alta.",
+  "footer": "HALT viene de la tradición de recuperación: un mapa rápido de lo que tu cuerpo y tu vida necesitan.",
+  "safetyNote": "Si sientes ganas de hacerte daño o de desaparecer, no estás solo/a: busca ayuda ahora."
+}

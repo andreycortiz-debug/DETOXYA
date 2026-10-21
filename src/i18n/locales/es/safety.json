@@ -1,0 +1,41 @@
+{
+  "notMedical": {
+    "title": "Esto no es atención médica",
+    "body": "DETOXYA es una herramienta de bienestar y educación. No diagnostica, no trata y no sustituye a médicos, psicólogos ni servicios de urgencias. Nunca te indicamos dosis ni esquemas de rebaje. Si corres riesgo, busca atención médica profesional.",
+    "short": "DETOXYA no es atención médica ni sustituye a un profesional."
+  },
+  "screeningDisclaimer": "Estos cuestionarios son de orientación, no un diagnóstico. Solo tú y un profesional de la salud podéis interpretarlos con rigor. Tus respuestas no salen de este dispositivo.",
+  "taperNotice": "No damos pautas de rebaje: reducir alcohol o benzodiacepinas por tu cuenta puede ser peligroso. Hazlo siempre con supervisión médica.",
+  "crisis": {
+    "title": "Ayuda inmediata",
+    "body": "Si estás en peligro o piensas en hacerte daño, ahora mismo lo más importante es hablar con una persona. Llama a emergencias o a una línea de crisis. No tienes que pasar esto solo/a.",
+    "close": "Cerrar",
+    "callEmergency": "Llamar al {{number}} (emergencias)",
+    "findLine": "Encontrar una línea de ayuda en mi país",
+    "step1": "Ponte a salvo: aléjate de cualquier medio con el que podrías hacerte daño.",
+    "step2": "Llama o escribe a alguien: emergencias, una línea de crisis, o una persona de confianza.",
+    "step3": "No te quedes solo/a: quédate con otra persona si puedes.",
+    "step4": "Si sientes impulso inmediato, ve a urgencias o llama al número de emergencias de tu país.",
+    "dismiss": "Entiendo, continuar en la app",
+    "ack": "He contactado (o voy a contactar ahora) con ayuda humana.",
+    "urgentTitle": "Posible intoxicación: llama a urgencias ahora",
+    "urgentBody": "Si has tomado demasiado, mezclado sustancias o alguien está inconsciente o no respira, esto es una emergencia médica. Llama al 112 (o al número de emergencias de tu país) de inmediato. No esperes a que pase solo."
+  },
+  "medicalGate": {
+    "title": "Riesgo de retirada: atención médica necesaria",
+    "body": "Dejar de consumir alcohol o benzodiacepinas de golpe puede provocar convulsiones, delirium e incluso la muerte. Si tienes uso diario, antecedentes de convulsiones al dejar, más de 65 años, embarazo, enfermedad grave u otra sustancia de por medio, necesitas evaluación médica antes de dejarlo.",
+    "sign1": "Uso diario de alcohol o benzodiacepinas.",
+    "sign2": "Convulsiones o delirium en retiradas anteriores.",
+    "sign3": "Temblor, sudoración o ansiedad intensa cuando no consumes.",
+    "ack": "Entiendo que debo buscar atención médica antes de dejarlo, y que esta app no supervisa mi retirada."
+  },
+  "opioidGate": {
+    "title": "Opiáceos: reducción de daños",
+    "body": "La abstinencia de opioides rara vez es mortal por sí sola, pero la pérdida de tolerancia tras dejarlos multiplica el riesgo de sobredosis si vuelves a consumir. El tratamiento con opioides (metadona, buprenorfina, naltrexona) es el estándar de cuidado: busca un profesional.",
+    "point1": "Ten naloxona (Narcan) a mano y enseña a alguien cercano a usarla.",
+    "point2": "Nunca uses solo/a: avisa a alguien o usa un servicio de acompañamiento.",
+    "point3": "No mezcles opioides con alcohol ni benzodiacepinas.",
+    "point4": "Tras un periodo sin consumo, tu tolerancia es menor: una dosis previa puede matar.",
+    "ack": "Entiendo las medidas de reducción de daños y buscaré ayuda profesional (MOUD) si es posible."
+  }
+}

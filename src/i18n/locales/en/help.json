@@ -1,0 +1,16 @@
+{
+  "title": "Help & safety",
+  "intro": "If you are in danger, use these numbers now. DETOXYA does not replace emergency services.",
+  "inCrisisCta": "I am in crisis right now",
+  "callEmergency": "Call {{number}} (emergency)",
+  "linesTitle": "Crisis and support lines",
+  "harmTitle": "Harm reduction saves lives",
+  "harm1": "Never use alone: tell someone or use a supervised-use service.",
+  "harm2": "Do not mix opioids with alcohol or benzodiazepines: the combination can stop your breathing.",
+  "harm3": "Keep naloxone at hand if you use opioids and teach someone close how to use it.",
+  "harm4": "After a period without using, your tolerance drops: a previous dose can be lethal.",
+  "harm5": "If you use, try a smaller amount than usual, especially after a break.",
+  "notAloneTitle": "You are not alone",
+  "notAloneBody": "Thousands of people are going through what you are going through. Asking for help — from a line, a doctor, a friend — is an act of courage, not weakness.",
+  "medicalNote": "If you drink alcohol or take benzodiazepines daily, only stop under medical supervision: abrupt withdrawal can cause seizures."
+}

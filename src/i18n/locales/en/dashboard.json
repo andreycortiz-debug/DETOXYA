@@ -1,0 +1,21 @@
+{
+  "subtitle": "Your data, in clear charts. No cloud: it all comes from this device.",
+  "statsClean": "Clean days",
+  "statsUrges": "Cravings ridden",
+  "statsSaved": "Saved (estimated)",
+  "statsReviews": "Reviews",
+  "heatmapTitle": "Last 30 days",
+  "heatmapHint": "Each cell is a day; darker cells had logged cravings.",
+  "intensityTitle": "Intensity before/after",
+  "intensityBefore": "Before",
+  "intensityAfter": "After",
+  "intensityHint": "Each point is a logged craving: it came down.",
+  "haltTitle": "HALT pattern (14 days)",
+  "haltHint": "Average of each dimension across your check-ins.",
+  "triggersTitle": "Most frequent triggers",
+  "noData": "Not enough data yet: log cravings and HALT check-ins to see charts.",
+  "emptyTriggers": "No triggers logged in cravings.",
+  "savingsTotal": "Total since your first goal",
+  "day": "day",
+  "days": "days"
+}

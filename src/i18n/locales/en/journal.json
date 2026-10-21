@@ -1,0 +1,21 @@
+{
+  "subtitle": "Write for yourself. Everything stays on this device.",
+  "tab_write": "Write",
+  "tab_thought": "Thought",
+  "tab_list": "Entries",
+  "useFree": "Switch to free writing",
+  "usePrompt": "Use the question of the day",
+  "entryLabel": "Your entry",
+  "save": "Save entry",
+  "saveThought": "Save record",
+  "saved": "Saved!",
+  "empty": "No entries yet.",
+  "thoughtIntro": "Record a difficult thought: situation → thought → emotion → evidence → reframe.",
+  "field_situation": "Situation (what happened, where, when)",
+  "field_thought": "Automatic thought",
+  "field_emotion": "Emotion and intensity (0-10)",
+  "field_evidenceFor": "Evidence for the thought",
+  "field_evidenceAgainst": "Evidence against",
+  "field_reframe": "Believable reframe",
+  "confirmDelete": "Delete this entry? This cannot be undone."
+}

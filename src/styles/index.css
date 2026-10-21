@@ -1,0 +1,95 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-slate-50 font-sans text-slate-900 antialiased dark:bg-slate-950 dark:text-slate-100;
+    min-height: 100dvh;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-teal-600);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    @apply bg-teal-200 text-teal-950 dark:bg-teal-900 dark:text-teal-100;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl bg-white p-4 shadow-sm ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-800;
+  }
+
+  .btn-primary {
+    @apply btn-base bg-teal-600 text-white shadow-sm hover:bg-teal-700 dark:bg-teal-500 dark:text-teal-950 dark:hover:bg-teal-400;
+  }
+
+  .btn-secondary {
+    @apply btn-base bg-white text-slate-800 ring-1 ring-slate-300 hover:bg-slate-100 dark:bg-slate-800 dark:text-slate-100 dark:ring-slate-700 dark:hover:bg-slate-700;
+  }
+
+  .btn-danger {
+    @apply btn-base bg-rose-600 text-white shadow-sm hover:bg-rose-700;
+  }
+
+  .btn-ghost {
+    @apply btn-base text-slate-600 hover:bg-slate-200/70 dark:text-slate-300 dark:hover:bg-slate-800;
+  }
+
+  .input {
+    @apply min-h-11 w-full rounded-xl border-0 bg-white px-3.5 py-2.5 text-base text-slate-900 shadow-sm ring-1 ring-slate-300 placeholder:text-slate-400 focus:ring-2 focus:ring-teal-600 dark:bg-slate-900 dark:text-slate-100 dark:ring-slate-700;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-xs font-medium;
+  }
+
+  .page-title {
+    @apply text-xl font-bold tracking-tight text-slate-900 dark:text-white;
+  }
+
+  .muted {
+    @apply text-sm text-slate-500 dark:text-slate-400;
+  }
+
+  .banner-warning {
+    @apply rounded-xl bg-amber-50 p-3.5 text-sm text-amber-900 ring-1 ring-amber-200 dark:bg-amber-950/60 dark:text-amber-100 dark:ring-amber-900;
+  }
+
+  .banner-danger {
+    @apply rounded-xl bg-rose-50 p-3.5 text-sm font-medium text-rose-900 ring-1 ring-rose-200 dark:bg-rose-950/60 dark:text-rose-100 dark:ring-rose-900;
+  }
+}
+
+@utility btn-base {
+  @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-xl px-4 py-2 text-sm font-semibold transition active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50;
+}
+
+@utility safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+@utility safe-top {
+  padding-top: env(safe-area-inset-top);
+}
+
+@keyframes wave {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}

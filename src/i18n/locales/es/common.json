@@ -1,0 +1,42 @@
+{
+  "appName": "DETOXYA",
+  "tagline": "Compañero local-first de desintoxicación y recuperación",
+  "loading": "Cargando…",
+  "disclaimerShort": "No es atención médica ni sustituye a un profesional. En una emergencia llama al 112 o al 911.",
+  "actions": {
+    "continue": "Continuar",
+    "back": "Atrás",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "done": "Hecho",
+    "skip": "Omitir",
+    "retry": "Reintentar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "close": "Cerrar",
+    "seeAll": "Ver todo"
+  },
+  "time": {
+    "daysHours": "{{days}} d {{hours}} h",
+    "hoursMinutes": "{{hours}} h {{minutes}} min",
+    "minutes": "{{minutes}} min",
+    "today": "Hoy",
+    "yesterday": "Ayer",
+    "day": "día",
+    "days": "días",
+    "hour": "hora",
+    "hours": "horas",
+    "minute": "minuto",
+    "minutesWord": "minutos",
+    "second": "segundo",
+    "seconds": "segundos"
+  },
+  "empty": {
+    "nothingYet": "Todavía no hay nada aquí",
+    "checkBack": "Vuelve pronto."
+  },
+  "errors": {
+    "generic": "Algo salió mal. Inténtalo de nuevo.",
+    "notFound": "No se encontró esa página."
+  }
+}
